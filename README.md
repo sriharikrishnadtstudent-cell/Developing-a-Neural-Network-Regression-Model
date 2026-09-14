@@ -52,9 +52,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Austin Aro A
+### Name: SRI HARI KRISHNA D T
 
-### Register Number: 212224040038
+### Register Number: 212224240160
 
 ```
 import torch
